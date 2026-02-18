@@ -1,7 +1,7 @@
 <img src="https://github.com/Ramdhan7/brutefire/blob/main/Bruteforce.jpg" width="640" title="Menu" alt="Menu">
 
 # Brutefire
-Tool Bruteforce For Hack Account FB Target
+Tool Bruteforce For Account FB
 
 ### Install :
 ````bash
@@ -11,7 +11,7 @@ $ pkg install git
 $ pkg install bs4
 $ pip install mechanize 
 $ pip install requests 
-$ git clone https://github.com/Ramdhan7/brutefire
+$ git clone https://github.com/FranXpansion/brutefire
 $ cd brutefire
 $ ls
 $ python brutefire.py
