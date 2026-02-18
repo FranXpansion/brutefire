@@ -1,4 +1,3 @@
-<img src="https://github.com/Ramdhan7/brutefire/blob/main/Bruteforce.jpg" width="640" title="Menu" alt="Menu">
 
 # Brutefire
 Tool Bruteforce For Account FB
